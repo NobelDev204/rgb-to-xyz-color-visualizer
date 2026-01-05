@@ -48,8 +48,8 @@ Each point is colored to match its original pixel color, creating a beautiful 3D
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/rgb-color-visualizer.git
-   cd rgb-color-visualizer
+   git clone https://github.com/YOUR_USERNAME/rgb-to-xyz-color-visualizer.git
+   cd rgb-to-xyz-color-visualizer
    ```
 
 2. **Navigate to the project directory**
@@ -117,14 +117,7 @@ rgb-visualizer/
 - Client-side processing for instant feedback
 - Server-side image resizing for search results
 - Maintains 30+ fps during 3D interactions
-
-## Browser Compatibility
-
-- Chrome 90+
-- Firefox 88+
-- Safari 14+
-- Edge 90+
-
+- 
 ## API Endpoints
 
 ### `GET /`
@@ -156,9 +149,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Portfolio: [your-website.com](https://your-website.com)
+**Zidane Blades**
+- GitHub: [@NobelDev204](https://github.com/NobelDev204)
 
 ---
 
